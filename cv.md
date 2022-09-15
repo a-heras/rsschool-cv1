@@ -9,10 +9,11 @@ To work on serious projects in company.
 To grow in professional state continuously.
 I am passionate about what I do. I am a fast learner. I work hard to get things done and i dont like leaving a job unfinished.
 ### SKILLS
-* HTML5  CSS3  
-* JavaScript  jQuery  
-* Git  Npm  Gulp  Webpack  
-* Atom  VSCode
+* HTML5,  CSS3  
+* JavaScript,  jQuery  
+* React
+* Git,  Npm,  Gulp,  Webpack  
+* Atom,  VSCode
 ### EXPERIENCE
               function myFunction(){
                 console.log('Hello World!');
