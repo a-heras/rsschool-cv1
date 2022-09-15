@@ -19,6 +19,7 @@ I am passionate about what I do. I am a fast learner. I work hard to get things 
                 console.log('Hello World!');
               }
               myFunction();
+
 ### EDUCATION
 Grodno State College of engineering, technology and design
 ### English level
