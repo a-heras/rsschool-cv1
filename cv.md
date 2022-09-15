@@ -1,7 +1,7 @@
 ### ARTSIOM HERASIMCHYK
-**Address:** Minsk;
-**Phone number:** +375292688581;
-**E-mail:** artem.ice33@gmail.com;
+**Address:** Minsk;  
+**Phone number:** +375292688581;  
+**E-mail:** artem.ice33@gmail.com;  
 
 
 *************************************************************
@@ -19,11 +19,11 @@ I am passionate about what I do. I am a fast learner. I work hard to get things 
 
 
 ### SKILLS
-HTML5,  CSS3;
-JavaScript,  jQuery;
-React;
-Git,  Npm,  Gulp,  Webpack;
-Atom,  VSCode;
+HTML5,  CSS3;  
+JavaScript,  jQuery;  
+React;  
+Git,  Npm,  Gulp,  Webpack;  
+Atom,  VSCode;  
 
 
 *************************************************************
