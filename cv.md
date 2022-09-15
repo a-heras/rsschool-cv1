@@ -2,6 +2,7 @@
 **Address:** Minsk
 **Phone number:** +375292688581
 **E-mail:** artem.ice33@gmail.com
+*************************************************************
 ### SUMMARY
 Building quality websites and applications with HTML, CSS, and JavaScript.
 To make things around me more convenient, useful and beautiful. 
