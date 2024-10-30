@@ -1,1 +1,1 @@
-https://a-heras.github.io/rsschool-cv/
+https://a-heras.github.io/rsschool1-cv/
